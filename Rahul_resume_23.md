@@ -1,5 +1,12 @@
 # Resume
 
+# Rahul Raikwar
+Vidisha, Madhya Pradesh, 464001  
+ +91 7223888360 | rahulraikwar.cse@gmail.com | [LinkedIn](linkedin.com/in/rahul-raikwar) | [GitHub](github.com/rahulraikwar00)
+
+## Objective
+Enthusiastic Computer Science and Engineering student seeking opportunities to apply technical skills and contribute to innovative projects in a dynamic work environment.
+
 ## Education
 - **Sagar Institute of Science and Technology, Bhopal, India**
   - *Bachelor of Technology in Computer Science Engineering*, July 2019 - June 2023
